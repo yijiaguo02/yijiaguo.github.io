@@ -29,7 +29,7 @@ My research interest includes computer vision and deep learning, especially in t
 
 # 📝 Publications 
 
-div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics 2023</div><img src='images/aaai_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics 2023</div><img src='images/aaai_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Evidential Uncertainty-guided Mitochondria Segmentation for 3D EM Images](https://aaai.com)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
