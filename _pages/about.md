@@ -102,8 +102,13 @@ Wenyao Wang, **Ruohua Shi**, Mingyang Zhao, Yuchen Zhou, Jinsheng Shi, Lei Ma
 
 
 # 🎖 Honors and Awards
-- *2021.06* Outstanding Graduates, School of Computer Science, Peking University. 2%
-- *2018.06* Outstanding Graduates, Xidian University. 0.1%
+- *2023.12* Annual Top Ten Student Excellence Award, NELVT, School of Computer Science, Peking University. 5%
+- *2023.10* Merit Student, School of Computer Science, Peking University. 5%
+- *2023.10* Jiu Kun Scholarship, School of Computer Science, Peking University. 5%
+- *2021.06* Outstanding Graduates, Peking University. 2%
+- *2020.10* Merit Student, School of Mathematical Sciences, Peking University. 5%
+- *2019.10* Excellent Student Cadre, School of Mathematical Sciences, Peking University. 5%
+- *2018.06* Top Ten Outstanding Graduates, Xidian University. 0.1%
 
 # 📖 Educations
 - *2021.09 - 2024.01 (now)*, Phd student from School of Computer Science, Peking University
