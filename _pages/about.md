@@ -111,7 +111,7 @@ Wenyao Wang, **Ruohua Shi**, Mingyang Zhao, Yuchen Zhou, Jinsheng Shi, Lei Ma
 - *2018.06* Top Ten Outstanding Graduates, Xidian University. 0.1%
 
 # 📖 Educations
-- *2021.09 - 2024.01 (now)*, Phd student from School of Computer Science, Peking University
+- *2021.09 - 2024.01 (now)*, Phd student, School of Computer Science, Peking University
 - *2018.09 - 2021.06*, B.S. degree from School of Mathematical Sciences, Peking University
 - *2014.09 - 2018.06*, B.E. degree from School of Mathematics and Statistics, Xidian University
 
