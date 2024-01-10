@@ -36,12 +36,26 @@ My research interest includes computer vision and deep learning, especially in t
 
 **Ruohua Shi**, Keyan Bi, Kai Du, Lei Ma, Fang Fang, Lingyu Duan, Tingting Jiang, Tiejun Huang
 
+*Bioinformatics, 2023*
+
+[[Paper]](https://doi.org/10.1093/bioinformatics/btad464) [[Code]](https://github.com/EmmaSRH/PS-Net) 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/2023_ICASSP_OAFormer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OAFormer: Learning Occlusion Distinguishable Feature for Amodal Instance Segmentation](https://ieeexplore.ieee.org/abstract/document/10096534)
 
 Zhixuan Li, **Ruohua Shi**,, Tiejun Huang, Tingting Jiang
+
+International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020*
+
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/10096534) 
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Front. Comput. Neurosci. 2022</div><img src='images/urisc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -50,12 +64,17 @@ Zhixuan Li, **Ruohua Shi**,, Tiejun Huang, Tingting Jiang
 
 **Ruohua Shi**, Wenyao Wang, Zhixuan Li, Liuyuan He, Kaiwen Sheng, Lei Ma, Kai Du, Tingting Jiang, Tiejun Huang
 
+*Frontiers in Computational Neuroscience, 2022*
+
+[[Paper]](https://www.frontiersin.org/articles/10.3389/fncom.2022.842760/full) [[Code]](https://github.com/EmmaSRH/U-RISC-Data-Code) 
+
+
 </div>
 </div>
 
 
 # 🎖 Honors and Awards
-- *2021。06* Outstanding Graduates, School of Computer Science, Peking University. 2%
+- *2021.06* Outstanding Graduates, School of Computer Science, Peking University. 2%
 - *2018.06* Outstanding Graduates, Xidian University. 0.2%
 
 # 📖 Educations
