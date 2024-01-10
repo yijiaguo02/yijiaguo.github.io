@@ -29,6 +29,20 @@ My research interest includes computer vision and deep learning, especially in t
 
 # 📝 Publications 
 
+div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics 2023</div><img src='images/aaai_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Evidential Uncertainty-guided Mitochondria Segmentation for 3D EM Images](https://aaai.com)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
+
+**Ruohua Shi**, Lingyu Duan, Tiejun Huang, Tingting Jiang
+
+*Association for the Advancement of Artificial Intelligence (AAAI), 2024*
+
+[[Paper]](https://aaai.com/) [[Code]](https://github.com/EmmaSRH/EUMS-3D) 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics 2023</div><img src='images/phd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,7 +64,7 @@ My research interest includes computer vision and deep learning, especially in t
 
 Zhixuan Li, **Ruohua Shi**,, Tiejun Huang, Tingting Jiang
 
-International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020*
+*International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023*
 
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/10096534) 
 
