@@ -70,6 +70,21 @@ Zhixuan Li, **Ruohua Shi**,, Tiejun Huang, Tingting Jiang
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/2023_ICASSP_OAFormer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A survey of image processing tools for microscale connectomics](http://cnki.sdll.cn:85/KCMS/detail/detail.aspx?filename=DZXV202302017&dbcode=CJFQ&dbname=CJFD2023)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
+
+Wenyao Wang, **Ruohua Shi**, Mingyang Zhao, Yuchen Zhou, Jinsheng Shi, Lei Ma
+
+*Journal of Chinese Electron Microscopy Society, 2023, Issue 2, Page 252-274*
+
+[[Paper]](http://cnki.sdll.cn:85/KCMS/detail/detail.aspx?filename=DZXV202302017&dbcode=CJFQ&dbname=CJFD2023) [[Project]]()
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Front. Comput. Neurosci. 2022</div><img src='images/urisc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -88,7 +103,7 @@ Zhixuan Li, **Ruohua Shi**,, Tiejun Huang, Tingting Jiang
 
 # 🎖 Honors and Awards
 - *2021.06* Outstanding Graduates, School of Computer Science, Peking University. 2%
-- *2018.06* Outstanding Graduates, Xidian University. 0.2%
+- *2018.06* Outstanding Graduates, Xidian University. 0.1%
 
 # 📖 Educations
 - *2021.09 - 2024.01 (now)*, Phd student from School of Computer Science, Peking University
