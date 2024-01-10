@@ -110,9 +110,5 @@ Wenyao Wang, **Ruohua Shi**, Mingyang Zhao, Yuchen Zhou, Jinsheng Shi, Lei Ma
 - *2018.09 - 2021.06*, B.S. degree from School of Mathematical Sciences, Peking University
 - *2014.09 - 2018.06*, B.E. degree from School of Mathematics and Statistics, Xidian University
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
 # 💻 Internships
 - *2020.02 - 2023.10*, [BAAI](https://www.baai.ac.cn/), China.
