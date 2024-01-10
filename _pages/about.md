@@ -28,7 +28,7 @@ My research interest includes computer vision and deep learning, especially in t
 - *2023.6*: &nbsp;🎉🎉 One paper is published by Bioinformatics.  
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics 2023</div><img src='images/aaai_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/aaai_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Evidential Uncertainty-guided Mitochondria Segmentation for 3D EM Images](https://aaai.com)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
@@ -70,7 +70,7 @@ Zhixuan Li, **Ruohua Shi**,, Tiejun Huang, Tingting Jiang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Chin. Electron Microsc. Soc.</div><img src='images/survey_2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Chin. Electron Microsc. Soc. 2023</div><img src='images/survey_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A survey of image processing tools for microscale connectomics](http://cnki.sdll.cn:85/KCMS/detail/detail.aspx?filename=DZXV202302017&dbcode=CJFQ&dbname=CJFD2023)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
