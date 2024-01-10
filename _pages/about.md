@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a third-year undergraduate student from [VIE Lab](http://www.vie.group/), [National Engineering Laboratory for Video Technology (NELVT)](https://idm.pku.edu.cn/), [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I received my B.S. degree at [School of Mathematical Sciences](https://www.math.pku.edu.cn/), Peking University in 2021, supervised by Prof. [Ming Jiang](https://www.math.pku.edu.cn/teachers/jiangm/) and Assoc. [Prof. Tingting Jiang](http://www.vie.group/ttj). I received my B.E. degree from [School of Mathematics and Statistics](https://math.xidian.edu.cn/), Xidian University in 2018, supervised by Prof. Shuisheng Zhou.
+I'm a third-year PhD student from [VIE Lab](http://www.vie.group/), [National Engineering Laboratory for Video Technology (NELVT)](https://idm.pku.edu.cn/), [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I received my B.S. degree at [School of Mathematical Sciences](https://www.math.pku.edu.cn/), Peking University in 2021, supervised by Prof. [Ming Jiang](https://www.math.pku.edu.cn/teachers/jiangm/) and Assoc. [Prof. Tingting Jiang](http://www.vie.group/ttj). I received my B.E. degree from [School of Mathematics and Statistics](https://math.xidian.edu.cn/), Xidian University in 2018, supervised by Prof. Shuisheng Zhou.
 
 
 My research interest includes computer vision and deep learning, especially in the fields of biological and medical image segmentation, 3D reconstruction of connectomics.
