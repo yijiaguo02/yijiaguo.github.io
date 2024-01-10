@@ -32,7 +32,7 @@ My research interest includes computer vision and deep learning, especially in t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics 2023</div><img src='images/phd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PS-Net: Human perception-guided segmentation network for EM cell membrane](https://doi.org/10.1093/bioinformatics/btad464)
+[PS-Net: Human perception-guided segmentation network for EM cell membrane](https://doi.org/10.1093/bioinformatics/btad464)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
 
 **Ruohua Shi**, Keyan Bi, Kai Du, Lei Ma, Fang Fang, Lingyu Duan, Tingting Jiang, Tiejun Huang
 
@@ -46,7 +46,7 @@ My research interest includes computer vision and deep learning, especially in t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/2023_ICASSP_OAFormer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[OAFormer: Learning Occlusion Distinguishable Feature for Amodal Instance Segmentation](https://ieeexplore.ieee.org/abstract/document/10096534)
+[OAFormer: Learning Occlusion Distinguishable Feature for Amodal Instance Segmentation](https://ieeexplore.ieee.org/abstract/document/10096534)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
 
 Zhixuan Li, **Ruohua Shi**,, Tiejun Huang, Tingting Jiang
 
@@ -60,7 +60,7 @@ International Conference on Acoustics, Speech and Signal Processing (ICASSP), 20
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Front. Comput. Neurosci. 2022</div><img src='images/urisc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[U-RISC: An Annotated Ultra-High-Resolution Electron Microscopy Dataset Challenging the Existing Deep Learning Algorithms](https://www.frontiersin.org/articles/10.3389/fncom.2022.842760/full)
+[U-RISC: An Annotated Ultra-High-Resolution Electron Microscopy Dataset Challenging the Existing Deep Learning Algorithms](https://www.frontiersin.org/articles/10.3389/fncom.2022.842760/full)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
 
 **Ruohua Shi**, Wenyao Wang, Zhixuan Li, Liuyuan He, Kaiwen Sheng, Lei Ma, Kai Du, Tingting Jiang, Tiejun Huang
 
