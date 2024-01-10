@@ -70,7 +70,7 @@ Zhixuan Li, **Ruohua Shi**,, Tiejun Huang, Tingting Jiang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/2023_ICASSP_OAFormer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Chin. Electron Microsc. Soc.</div><img src='images/survey_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A survey of image processing tools for microscale connectomics](http://cnki.sdll.cn:85/KCMS/detail/detail.aspx?filename=DZXV202302017&dbcode=CJFQ&dbname=CJFD2023)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
