@@ -25,7 +25,7 @@ My research interest includes computer vision and deep learning, especially in t
 
 # 🔥 News
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024. 
-- *2023.6*: &nbsp;🎉🎉 One paper is published by Bioinformatics.  
+- *2023.06*: &nbsp;🎉🎉 One paper is published by Bioinformatics.  
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/aaai_2024.png' alt="sym" width="100%"></div></div>
