@@ -24,10 +24,25 @@ My research interest includes computer vision and deep learning, especially in t
 
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 One paper is accepted by MICCAI 2024.
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024. 
 - *2023.06*: &nbsp;🎉🎉 One paper is published by Bioinformatics.  
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/miccai2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ShapeMamba-EM: Fine-Tuning Foundation Model with Local Shape Descriptors and Mamba Blocks for 3D EM Image Segmentation](https://aaai.com)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
+
+**Ruohua Shi**, Qiufan Pang, Lei Ma, Lingyu Duan, Tiejun Huang, Tingting Jiang
+
+*INTERNATIONAL CONFERENCE ON MEDICAL IMAGE COMPUTING AND COMPUTER ASSISTED INTERVENTION (MICCAI), 2024*
+
+[[Paper]](https://conferences.miccai.org/2024/en/) [[Code]](https://github.com/EmmaSRH/) 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/aaai_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
