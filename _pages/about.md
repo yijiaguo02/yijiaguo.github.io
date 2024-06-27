@@ -52,7 +52,7 @@ My research interest includes computer vision and deep learning, especially in t
 
 *Association for the Advancement of Artificial Intelligence (AAAI), 2024*
 
-[[Paper]](https://aaai.com/) [[Code]](https://github.com/EmmaSRH/EUMS-3D) 
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28287) [[Code]](https://github.com/EmmaSRH/EUMS-3D) 
 
 </div>
 </div>
