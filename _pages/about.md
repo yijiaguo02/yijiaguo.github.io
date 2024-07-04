@@ -32,7 +32,7 @@ My research interest includes computer vision and deep learning, especially in t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/miccai2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ShapeMamba-EM: Fine-Tuning Foundation Model with Local Shape Descriptors and Mamba Blocks for 3D EM Image Segmentation](https://aaai.com)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
+[ShapeMamba-EM: Fine-Tuning Foundation Model with Local Shape Descriptors and Mamba Blocks for 3D EM Image Segmentation](https://conferences.miccai.org/2024/en/)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
 
 **Ruohua Shi**, Qiufan Pang, Lei Ma, Lingyu Duan, Tiejun Huang, Tingting Jiang
 
@@ -46,7 +46,7 @@ My research interest includes computer vision and deep learning, especially in t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/aaai_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Evidential Uncertainty-guided Mitochondria Segmentation for 3D EM Images](https://aaai.com)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
+[Evidential Uncertainty-guided Mitochondria Segmentation for 3D EM Images](https://ojs.aaai.org/index.php/AAAI/article/view/28287)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
 
 **Ruohua Shi**, Lingyu Duan, Tiejun Huang, Tingting Jiang
 
