@@ -24,11 +24,27 @@ My research interest includes computer vision and deep learning, especially in t
 
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ICSI 2024.
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted by MICCAI 2024.
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024. 
 - *2023.06*: &nbsp;🎉🎉 One paper is published by Bioinformatics.  
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSI 2024</div><img src='images/icsi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Amodal Segmentation for Laparoscopic Surgery
+Video Instruments](https://arxiv.org/pdf/2408.01067)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
+
+**Ruohua Shi**, Zhaochen Liu, Lingyu Duan, Tingting Jiang
+
+*Journal Sensing and Imaging -- The International Conference on Sensing and Imaging (ICSI), 2024*
+
+[[Paper]](https://arxiv.org/pdf/2408.01067) [[Code]](https://github.com/EmmaSRH/) 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/miccai2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
