@@ -38,7 +38,7 @@ Video Instruments](https://arxiv.org/pdf/2408.01067)<strong><span class='show_pa
 
 **Ruohua Shi**, Zhaochen Liu, Lingyu Duan, Tingting Jiang
 
-*Journal Sensing and Imaging -- The International Conference on Sensing and Imaging (ICSI), 2024*
+*Journal Sensing and Imaging -- The International Conference on Sensing and Imaging (ICSI), 2024 **(Oral**)*
 
 [[Paper]](https://arxiv.org/pdf/2408.01067) [[Code]](https://github.com/EmmaSRH/) 
 
