@@ -26,8 +26,7 @@ My research interest includes computer vision and deep learning, especially in t
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by ICSI 2024.
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted by MICCAI 2024.
-- *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024. 
-- *2023.06*: &nbsp;🎉🎉 One paper is published by Bioinformatics.  
+- *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024.
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSI 2024</div><img src='images/icsi.png' alt="sym" width="100%"></div></div>
