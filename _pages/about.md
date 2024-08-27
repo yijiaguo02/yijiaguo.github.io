@@ -24,7 +24,7 @@ My research interest includes computer vision and deep learning, especially in t
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ICSI 2024.
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ICSI 2024, and won the **Best Paper Award**.
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted by MICCAI 2024.
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024.
 
@@ -37,7 +37,7 @@ Video Instruments](https://arxiv.org/pdf/2408.01067)<strong><span class='show_pa
 
 **Ruohua Shi**, Zhaochen Liu, Lingyu Duan, Tingting Jiang
 
-*Journal Sensing and Imaging -- The International Conference on Sensing and Imaging (ICSI), 2024 **(Oral**)*
+*Journal Sensing and Imaging -- The International Conference on Sensing and Imaging (ICSI), 2024 **(Best Paper**)*
 
 [[Paper]](https://arxiv.org/pdf/2408.01067) [[Code]](https://github.com/EmmaSRH/) 
 
