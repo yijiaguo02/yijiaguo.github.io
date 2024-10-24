@@ -132,6 +132,7 @@ Wenyao Wang, **Ruohua Shi**, Mingyang Zhao, Yuchen Zhou, Jinsheng Shi, Lei Ma
 
 
 # 🎖 Honors and Awards
+- *2024.10* HuaWei Scholarship, School of Computer Science, Peking University. 5%
 - *2023.12* Annual Top Ten Student Excellence Award, NELVT, School of Computer Science, Peking University. 5%
 - *2023.10* Merit Student, School of Computer Science, Peking University. 5%
 - *2023.10* Jiu Kun Scholarship, School of Computer Science, Peking University. 5%
