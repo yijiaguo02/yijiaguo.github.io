@@ -123,7 +123,7 @@ Video Instruments](https://arxiv.org/pdf/2408.01067)<strong><span class='show_pa
 # 📝 General AI
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/2023_ICASSP_OAFormer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/general_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Unifying Understanding and Generation in the Era of Vision Foundation Models: A Survey from the Autoregression Perspective](https://arxiv.org/abs/2410.22217)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
