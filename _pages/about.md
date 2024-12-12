@@ -17,15 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a PhD candidate from [VIE Lab](http://www.vie.group/) and [Insight Lab](https://www.maleilab.cn/), [School of Computer Science](https://cs.pku.edu.cn/), Peking University, supervised by Assoc. Prof. [Tingting Jiang](http://www.vie.group/ttj). I received my M.S. degree at [School of Mathematical Sciences](https://www.math.pku.edu.cn/), Peking University in 2021, supervised by Prof. [Ming Jiang](https://www.math.pku.edu.cn/teachers/jiangm/) and Assoc. Prof. [Tingting Jiang](http://www.vie.group/ttj). I received my B.S. degree from [School of Mathematics and Statistics](https://math.xidian.edu.cn/), Xidian University in 2018, supervised by Prof. Shuisheng Zhou.
+I'm a PhD candidate from [Insight Lab](https://www.maleilab.cn/), National Key Laboratory for Multimedia Information Processing, [School of Computer Science](https://cs.pku.edu.cn/), Peking University, supervised by Prof. [Tiejun Huang](https://www.ai.pku.edu.cn/info/1139/1243.htm). I received my B.S. degree from Beihang University in 2023.
 
-My research interest includes computer vision and deep learning, especially in the fields of biological and medical image segmentation, 3D reconstruction of connectomics.
+My research interest includes computer vision and computer graphics, especially in the fields of 3D vision and spike vision.
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ICSI 2024, and won the **Best Paper Award**.
-- *2024.06*: &nbsp;🎉🎉 One paper is accepted by MICCAI 2024.
-- *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024.
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
+- *2024.06*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2024.
 
 # 📝 AI for Connectomics 
 
