@@ -24,7 +24,7 @@ My research interest includes computer vision and computer graphics, especially 
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
-- *2024.06*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2024.
+<!-- - *2024.06*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2024. -->
 
 # 📝 AI for Connectomics 
 
