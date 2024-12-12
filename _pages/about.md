@@ -55,7 +55,7 @@ My research interest includes computer vision and computer graphics, especially 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2024</div><img src='images/aaai_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2024</div><img src='images/prtgs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PRTGS: Precomputed Radiance Transfer of Gaussian Splats for Real-Time High-Quality Relighting](https://dl.acm.org/doi/10.1145/3664647.3680893)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
