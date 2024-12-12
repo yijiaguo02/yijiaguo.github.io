@@ -27,31 +27,44 @@ My research interest includes computer vision and computer graphics, especially 
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2024.
 
 # 📝 Publications
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/Spikegs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/watergs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SpikeGS: Reconstruct 3D scene captured by a fast-moving bio-inspired camera](https://conferences.miccai.org/2024/en/)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
+[Splats in Splats: Embedding Invisible 3D Watermark within Gaussian Splatting](https://water-gs.github.io/)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
+
+**Yijia Guo**, Wenkai Huang, Yang Li, Gaolei Li, Hang Zhang, Liwen Hu, Jianhua Li, Tiejun Huang, Lei Ma
+
+*Arxiv*
+
+[[Paper]](https://arxiv.org/abs/2412.03121) [[Code]](https://water-gs.github.io/) 
+[[Homepage]](https://water-gs.github.io/)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/Spikegs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SpikeGS: Reconstruct 3D scene captured by a fast-moving bio-inspired camera](https://spikegs.github.io/)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
 
 **Yijia Guo**, Liwen Hu, Yuanxi Bai, Lei Ma, Jiawei Yao, Tiejun Huang,
 
-*AAAI, 2025*
+*AAAI, 2025 (CCF-A)*
 
-[[Paper]](https://conferences.miccai.org/2024/en/) [[Code]](https://github.com/EmmaSRH/) 
-[[Homepage]](https://github.com/EmmaSRH/)
+[[Paper]](https://arxiv.org/abs/2407.03771) [[Code]](https://github.com/yijiaguo02/SpikeGS) 
+[[Homepage]](https://spikegs.github.io/)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/aaai_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2024</div><img src='images/aaai_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Evidential Uncertainty-guided Mitochondria Segmentation for 3D EM Images](https://ojs.aaai.org/index.php/AAAI/article/view/28287)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
+[PRTGS: Precomputed Radiance Transfer of Gaussian Splats for Real-Time High-Quality Relighting](https://dl.acm.org/doi/10.1145/3664647.3680893)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
 
-**Ruohua Shi**, Lingyu Duan, Tiejun Huang, Tingting Jiang
+**Yijia Guo**, Yuanxi Bai, Liwen Hu, Ziyi Guo, Mianzhi Liu, Yu Cai, Tiejun Huang, Lei Ma
 
-*Association for the Advancement of Artificial Intelligence (AAAI), 2024*
+*ACM MM 2024 (CCF-A)*
 
-[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28287) [[Code]](https://github.com/EmmaSRH/EUMS-3D) 
+[[Paper]](https://dl.acm.org/doi/10.1145/3664647.3680893) 
 
 </div>
 </div>
