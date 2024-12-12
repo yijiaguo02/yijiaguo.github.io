@@ -107,9 +107,9 @@ Wenyao Wang, **Ruohua Shi**, Mingyang Zhao, Yuchen Zhou, Jinsheng Shi, Lei Ma
 - *2022.12* Shenyuan Award, Beihang University. 0.05% (沈元奖章)
 - *2022.10* Beijing Merit Student. (北京市三好学生)
 # 📖 Educations
-- *2021.09 - 2024.01 (now)*, Phd student, School of Computer Science, Peking University
-- *2018.09 - 2021.06*, M.S. degree from School of Mathematical Sciences, Peking University
-- *2014.09 - 2018.06*, B.S. degree from School of Mathematics and Statistics, Xidian University
+- *2023.09 - now, Phd student, School of Computer Science, Peking University
+- *2019.09 - 2023.06*, B.S. degree from School of Automation Science and Electrical Engineering, Beihang University
 
 # 💻 Internships
-- *2020.02 - 2023.10*, [BAAI](https://www.baai.ac.cn/), China.
+- *2022.02 - 2023.9*, [BAAI](https://www.baai.ac.cn/), China.
+- *2020.07 - 2020.9*, [Tencent](https://www.tencent.net.cn/zh-cn/), China.
