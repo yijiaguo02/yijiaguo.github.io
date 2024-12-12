@@ -28,17 +28,17 @@ My research interest includes computer vision and computer graphics, especially 
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/miccai2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/Spikegs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ShapeMamba-EM: Fine-Tuning Foundation Model with Local Shape Descriptors and Mamba Blocks for 3D EM Image Segmentation](https://conferences.miccai.org/2024/en/)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
+[SpikeGS: Reconstruct 3D scene captured by a fast-moving bio-inspired camera](https://conferences.miccai.org/2024/en/)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
 
-**Ruohua Shi**, Qiufan Pang, Lei Ma, Lingyu Duan, Tiejun Huang, Tingting Jiang
+**Yijia Guo**, Liwen Hu, Yuanxi Bai, Lei Ma, Jiawei Yao, Tiejun Huang,
 
-*INTERNATIONAL CONFERENCE ON MEDICAL IMAGE COMPUTING AND COMPUTER ASSISTED INTERVENTION (MICCAI), 2024*
+*AAAI, 2025*
 
 [[Paper]](https://conferences.miccai.org/2024/en/) [[Code]](https://github.com/EmmaSRH/) 
-
+[[Homepage]](https://github.com/EmmaSRH/)
 </div>
 </div>
 
