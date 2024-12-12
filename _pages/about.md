@@ -69,56 +69,10 @@ My research interest includes computer vision and computer graphics, especially 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics 2023</div><img src='images/phd.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PS-Net: Human perception-guided segmentation network for EM cell membrane](https://doi.org/10.1093/bioinformatics/btad464)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
-
-**Ruohua Shi**, Keyan Bi, Kai Du, Lei Ma, Fang Fang, Lingyu Duan, Tingting Jiang, Tiejun Huang
-
-*Bioinformatics, 2023*
-
-[[Paper]](https://doi.org/10.1093/bioinformatics/btad464) [[Code]](https://github.com/EmmaSRH/PS-Net) 
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Chin. Electron Microsc. Soc. 2023</div><img src='images/survey_2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A survey of image processing tools for microscale connectomics](http://cnki.sdll.cn:85/KCMS/detail/detail.aspx?filename=DZXV202302017&dbcode=CJFQ&dbname=CJFD2023)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
-
-Wenyao Wang, **Ruohua Shi**, Mingyang Zhao, Yuchen Zhou, Jinsheng Shi, Lei Ma
-
-*Journal of Chinese Electron Microscopy Society, 2023, Issue 2, Page 252-274*
-
-[[Paper]](http://cnki.sdll.cn:85/KCMS/detail/detail.aspx?filename=DZXV202302017&dbcode=CJFQ&dbname=CJFD2023) [[Project]]()
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Front. Comput. Neurosci. 2022</div><img src='images/urisc.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[U-RISC: An Annotated Ultra-High-Resolution Electron Microscopy Dataset Challenging the Existing Deep Learning Algorithms](https://www.frontiersin.org/articles/10.3389/fncom.2022.842760/full)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
-
-**Ruohua Shi**, Wenyao Wang, Zhixuan Li, Liuyuan He, Kaiwen Sheng, Lei Ma, Kai Du, Tingting Jiang, Tiejun Huang
-
-*Frontiers in Computational Neuroscience, 2022*
-
-[[Paper]](https://www.frontiersin.org/articles/10.3389/fncom.2022.842760/full) [[Code]](https://github.com/EmmaSRH/U-RISC-Data-Code) 
-
-
-</div>
-</div>
-
-
-
 # 🎖 Honors and Awards
 - *2022.12* Shenyuan Award, Beihang University. 0.05% (沈元奖章)
 - *2022.10* Beijing Merit Student. (北京市三好学生)
+
 # 📖 Educations
 - *2023.09 - now, Phd student, School of Computer Science, Peking University
 - *2019.09 - 2023.06*, B.S. degree from School of Automation Science and Electrical Engineering, Beihang University
