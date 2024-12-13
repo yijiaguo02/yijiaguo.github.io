@@ -69,10 +69,6 @@ My research interest includes computer vision and computer graphics, especially 
 </div>
 </div>
 
-[[Paper]](https://arxiv.org/abs/2407.03771) [[Code]](https://github.com/yijiaguo02/SpikeGS) 
-[[Homepage]](https://spikegs.github.io/)
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/Spikenerf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -88,10 +84,6 @@ My research interest includes computer vision and computer graphics, especially 
 </div>
 </div>
 
-[[Paper]](https://arxiv.org/abs/2407.03771) [[Code]](https://github.com/yijiaguo02/SpikeGS) 
-[[Homepage]](https://spikegs.github.io/)
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/SCS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
