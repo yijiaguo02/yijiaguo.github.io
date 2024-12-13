@@ -69,6 +69,44 @@ My research interest includes computer vision and computer graphics, especially 
 </div>
 </div>
 
+[[Paper]](https://arxiv.org/abs/2407.03771) [[Code]](https://github.com/yijiaguo02/SpikeGS) 
+[[Homepage]](https://spikegs.github.io/)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/Spikenerf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Spike-NeRF: Neural Radiance Field Based On Spike Camera](https://dl.acm.org/doi/10.1145/3664647.3680893)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
+
+**Yijia Guo**, Yuanxi Bai, Liwen Hu, Mianzhi Liu, Ziyi Guo, Lei Ma, Tiejun Huang
+
+*ICME 2024 (CCF-B)*
+
+[[Paper]](https://arxiv.org/abs/2403.16410) 
+[[Code]](https://github.com/yijiaguo02/SpikeNerf) 
+</div>
+</div>
+
+[[Paper]](https://arxiv.org/abs/2407.03771) [[Code]](https://github.com/yijiaguo02/SpikeGS) 
+[[Homepage]](https://spikegs.github.io/)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/SCS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SCSim: A Realistic Spike Cameras Simulator](https://arxiv.org/abs/2405.16790)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
+
+Liwen Hu, Lei Ma, **Yijia Guo**, Tiejun Huang
+
+*ICME 2024 (CCF-B)*
+
+[[Paper]](https://arxiv.org/abs/2405.16790) 
+[[Code]](https://github.com/Acnext/SCSim) 
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2022.12* Shenyuan Award, Beihang University. 0.05% (沈元奖章)
 - *2022.10* Beijing Merit Student. (北京市三好学生)
