@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a PhD candidate from [Insight Lab](https://www.maleilab.cn/), National Key Laboratory for Multimedia Information Processing, [School of Computer Science](https://cs.pku.edu.cn/), Peking University, supervised by Prof. [Tiejun Huang](https://www.ai.pku.edu.cn/info/1139/1243.htm). I received my B.S. degree from Beihang University in 2023.
+I'm a PhD candidate from [Insight Lab](https://www.maleilab.cn/), National Key Laboratory for Multimedia Information Processing, [School of Computer Science](https://cs.pku.edu.cn/), Peking University, supervised by Prof. [Lei Ma](https://nbic.pku.edu.cn/rcdw/kyry/02c5f5ce8e254b1e82a48bebd0a24c33.htm) and Prof. [Tiejun Huang](https://www.ai.pku.edu.cn/info/1139/1243.htm). I received my B.S. degree from Beihang University in 2023.
 
 My research interest includes computer vision and computer graphics, especially in the fields of 3D vision and spike vision.
 
