@@ -23,10 +23,24 @@ My research interest includes computer vision and computer graphics, especially 
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
-- *2024.06*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2024.
+- *2024.12*: &nbsp;🎉🎉 Two co-fisrt-author papers is accepted by AAAI 2026.
+- *2024.12*: &nbsp;🎉🎉 One fisrt-author paper is accepted by AAAI 2025.
+- *2024.06*: &nbsp;🎉🎉 One fisrt-author paper is accepted by ACM MM 2024.
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/gspure.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Can Protective Watermarking Safeguard the Copyright of 3D Gaussian Splatting?](https://water-gs.github.io/)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
+
+Wenkai Huang*, **Yijia Guo***, Gaolei Li†, Lei Ma†, Hang Zhang, Liwen Hu, Jiazheng Wang, Jianhua Li†, Tiejun Huang
+*AAAI26*
+
+[[Paper]](https://arxiv.org/abs/2412.03121) [[Code]](https://water-gs.github.io/) 
+[[Homepage]](https://water-gs.github.io/)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/watergs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -34,7 +48,7 @@ My research interest includes computer vision and computer graphics, especially 
 
 **Yijia Guo**, Wenkai Huang, Yang Li, Gaolei Li, Hang Zhang, Liwen Hu, Jianhua Li, Tiejun Huang, Lei Ma
 
-*Arxiv*
+*AAAI26*
 
 [[Paper]](https://arxiv.org/abs/2412.03121) [[Code]](https://water-gs.github.io/) 
 [[Homepage]](https://water-gs.github.io/)
