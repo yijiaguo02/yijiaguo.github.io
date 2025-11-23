@@ -35,7 +35,7 @@ My research interest includes computer vision and computer graphics, especially 
 
 Wenkai Huang†, **Yijia Guo†**, Gaolei Li, Lei Ma, Hang Zhang, Liwen Hu, Jiazheng Wang, Jianhua Li, Tiejun Huang
 
-*AAAI26*
+*AAAI 2026 (CCF-A)*
 
 <!-- [[Paper]](https://arxiv.org/abs/2412.03121) [[Code]](https://water-gs.github.io/) 
 [[Homepage]](https://water-gs.github.io/) -->
@@ -47,7 +47,7 @@ Wenkai Huang†, **Yijia Guo†**, Gaolei Li, Lei Ma, Hang Zhang, Liwen Hu, Jiaz
 
 [Seeing the Unseen in Low-light Spike Streams?](https://arxiv.org/pdf/2509.23304/)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
 
-Liwen Hu, Yang Li, Mianzhi Liu, Yijia Guo, Shenghao Xie, Ziluo Ding, Tiejun Huang, Lei Ma
+Liwen Hu, Yang Li, Mianzhi Liu, **Yijia Guo**, Shenghao Xie, Ziluo Ding, Tiejun Huang, Lei Ma
 
 *Arxiv*
 
@@ -64,7 +64,7 @@ Liwen Hu, Yang Li, Mianzhi Liu, Yijia Guo, Shenghao Xie, Ziluo Ding, Tiejun Huan
 
 **Yijia Guo**, Wenkai Huang, Yang Li, Gaolei Li, Hang Zhang, Liwen Hu, Jianhua Li, Tiejun Huang, Lei Ma
 
-*AAAI26*
+*AAAI 2026 (CCF-A)*
 
 [[Paper]](https://arxiv.org/abs/2412.03121) [[Code]](https://water-gs.github.io/) 
 [[Homepage]](https://water-gs.github.io/)
