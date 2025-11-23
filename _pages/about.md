@@ -33,7 +33,7 @@ My research interest includes computer vision and computer graphics, especially 
 
 [Can Protective Watermarking Safeguard the Copyright of 3D Gaussian Splatting?](https://water-gs.github.io/)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
 
-Wenkai Huang*, **Yijia Guo***, Gaolei Li†, Lei Ma†, Hang Zhang, Liwen Hu, Jiazheng Wang, Jianhua Li†, Tiejun Huang
+Wenkai Huang†, **Yijia Guo†**, Gaolei Li, Lei Ma, Hang Zhang, Liwen Hu, Jiazheng Wang, Jianhua Li, Tiejun Huang
 *AAAI26*
 
 [[Paper]](https://arxiv.org/abs/2412.03121) [[Code]](https://water-gs.github.io/) 
