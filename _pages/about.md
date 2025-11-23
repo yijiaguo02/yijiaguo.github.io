@@ -34,10 +34,26 @@ My research interest includes computer vision and computer graphics, especially 
 [Can Protective Watermarking Safeguard the Copyright of 3D Gaussian Splatting?](https://water-gs.github.io/)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
 
 Wenkai Huang†, **Yijia Guo†**, Gaolei Li, Lei Ma, Hang Zhang, Liwen Hu, Jiazheng Wang, Jianhua Li, Tiejun Huang
+
 *AAAI26*
 
-[[Paper]](https://arxiv.org/abs/2412.03121) [[Code]](https://water-gs.github.io/) 
-[[Homepage]](https://water-gs.github.io/)
+<!-- [[Paper]](https://arxiv.org/abs/2412.03121) [[Code]](https://water-gs.github.io/) 
+[[Homepage]](https://water-gs.github.io/) -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/diffspk.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Seeing the Unseen in Low-light Spike Streams?](https://arxiv.org/pdf/2509.23304/)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
+
+Liwen Hu, Yang Li, Mianzhi Liu, Yijia Guo, Shenghao Xie, Ziluo Ding, Tiejun Huang, Lei Ma
+
+*Arxiv*
+
+[[Paper]](https://arxiv.org/pdf/2509.23304/) 
+<!-- [[Code]](https://water-gs.github.io/) 
+[[Homepage]](https://water-gs.github.io/) -->
 </div>
 </div>
 
