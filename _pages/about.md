@@ -29,7 +29,7 @@ My research interest includes computer vision and computer graphics, especially 
 - *2024.06*: &nbsp;🎉🎉 One fisrt-author paper is accepted by ACM MM 2024.
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI26</div><img src='images/pami_enhance.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/pami_enhance.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learn to Enhance Sparse Spike Streams](https://water-gs.github.io/)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
