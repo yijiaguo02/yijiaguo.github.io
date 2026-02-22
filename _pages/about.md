@@ -23,12 +23,28 @@ My research interest includes computer vision and computer graphics, especially 
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 One fisrt-author papers is accepted by CVPR 2026.
 - *2026.01*: &nbsp;🎉🎉 One co-fisrt-author papers is accepted by IEEE TPAMI.
 - *2025.12*: &nbsp;🎉🎉 Two co-fisrt-author papers is accepted by AAAI 2026.
 - *2024.12*: &nbsp;🎉🎉 One fisrt-author paper is accepted by AAAI 2025.
 - *2024.06*: &nbsp;🎉🎉 One fisrt-author paper is accepted by ACM MM 2024.
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 26</div><img src='images/CVPR_nope.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[3D Gaussian splatting From Unposed Spike Streams]()<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
+
+Yijia Guo, Tong Hu, Liwen Hu, Lei Ma✉,and Tiejun Huang
+
+*CVPR 2026 (CCF-A)*
+
+<!-- [[Paper]](https://arxiv.org/abs/2412.03121) [[Code]](https://water-gs.github.io/) 
+[[Homepage]](https://water-gs.github.io/) -->
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/pami_enhance.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -43,8 +59,20 @@ Liwen Hu†, **Yijia Guo†**, Mianzhi Liu, Yiming Fan, Rui Ma, Shengbo Chen, Le
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/onthefly.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI26</div><img src='images/gspure.png' alt="sym" width="100%"></div></div>
+[On-the-fly Large-scale 3D Reconstruction from Multi-Camera Rigs](https://arxiv.org/pdf/2512.08498)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
+
+**Yijia Guo** Tong Hu Zhiwei Li Liwen Hu Keming Qian Xitong Lin Shengbo Chen Tiejun Huang Lei Ma
+
+*Arxiv*
+
+[[Paper]](https://arxiv.org/pdf/2512.08498)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/gspure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Can Protective Watermarking Safeguard the Copyright of 3D Gaussian Splatting?](https://water-gs.github.io/)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
