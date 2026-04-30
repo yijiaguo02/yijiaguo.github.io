@@ -98,6 +98,7 @@ Wenkai Huang†, **Yijia Guo†**, Gaolei Li, Lei Ma, Hang Zhang, Liwen Hu, Jiaz
 *AAAI 2026 (CCF-A)*
 
 [[Paper]](https://arxiv.org/pdf/2511.22262)
+[[Code]](https://github.com/insightlab-CG-3DV/GSPure) 
 <!-- [[Paper]](https://arxiv.org/abs/2412.03121) [[Code]](https://water-gs.github.io/) 
 [[Homepage]](https://water-gs.github.io/) -->
 </div>
@@ -113,8 +114,8 @@ Liwen Hu, Yang Li, Mianzhi Liu, **Yijia Guo**, Shenghao Xie, Ziluo Ding, Tiejun 
 *Arxiv*
 
 [[Paper]](https://arxiv.org/pdf/2509.23304/) 
-<!-- [[Code]](https://water-gs.github.io/) 
-[[Homepage]](https://water-gs.github.io/) -->
+[[Code]](https://github.com/insightlab-CG-3DV/splats-in-splats) 
+[[Homepage]](https://splatsinsplats.github.io/)
 </div>
 </div>
 
