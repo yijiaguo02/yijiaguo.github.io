@@ -114,8 +114,8 @@ Liwen Hu, Yang Li, Mianzhi Liu, **Yijia Guo**, Shenghao Xie, Ziluo Ding, Tiejun 
 *Arxiv*
 
 [[Paper]](https://arxiv.org/pdf/2509.23304/) 
-[[Code]](https://github.com/insightlab-CG-3DV/splats-in-splats) 
-[[Homepage]](https://splatsinsplats.github.io/)
+<!-- [[Code]](https://github.com/insightlab-CG-3DV/splats-in-splats) 
+[[Homepage]](https://splatsinsplats.github.io/) -->
 </div>
 </div>
 
@@ -128,8 +128,9 @@ Liwen Hu, Yang Li, Mianzhi Liu, **Yijia Guo**, Shenghao Xie, Ziluo Ding, Tiejun 
 
 *AAAI 2026 (CCF-A)*
 
-[[Paper]](https://arxiv.org/abs/2412.03121) [[Code]](https://water-gs.github.io/) 
-[[Homepage]](https://water-gs.github.io/)
+[[Paper]](https://arxiv.org/abs/2412.03121) 
+[[Code]](https://github.com/insightlab-CG-3DV/splats-in-splats) 
+[[Homepage]](https://splatsinsplats.github.io/)
 </div>
 </div>
 
